@@ -5,7 +5,7 @@ Trixada Hotel's
 =============
 > User 
 
-   > Register User
+      > Register User
    
 > List Hotels
 
